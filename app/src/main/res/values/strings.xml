@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadiogroupVivas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Pregunta">¿Cual es fruta prefieres?</string>
+    <string name="Manzana">manzana</string>
+    <string name="Platano">platano</string>
+    <string name="Naranja">naranja</string>
+    <string name="Acercade">acerca de</string>
+    <string name="Preferencias">preferencias</string>
+    <string name="Salir">salir</string>
+    <string name="title_activity_acer">acer</string>
+
+</resources>
